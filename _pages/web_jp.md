@@ -4,7 +4,7 @@ title: ""
 author_profile: true
 redirect_from:
   - /md/
-  - /web_jp.html
+  - /website_jp.html
 ---
 
-日本語版は[こちら](https://KahoMorii.github.io/jp/)
+日本語版は[こちら](https://KahoMorii.github.io/website_jp/)
