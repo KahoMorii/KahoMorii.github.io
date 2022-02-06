@@ -28,6 +28,6 @@ Prof. Fumitaka Nakamura, Prof. Patricio Sanhueza
 ## Contact Information:
 National Astronomical Observatory of Japan
 <br>
-2-21-1 Osawa, ALMA-J, Office 205, Mitaka, Tokyo 181-8588, Japan
+2-21-1 Osawa, Central building (west), Office 102, Mitaka, Tokyo 181-8588, Japan
 <br>
 Email: kaho.morii@grad.nao.ac.jp
