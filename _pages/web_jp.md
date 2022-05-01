@@ -7,4 +7,4 @@ redirect_from:
   - /website_jp.html
 ---
 
-#日本語版は[こちら](https://KahoMorii.github.io/website_jp/)
+Japanese version [URL](https://KahoMorii.github.io/website_jp/)
