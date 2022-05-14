@@ -1,15 +1,15 @@
 ---
 permalink: /
-title: "Kaho Morii"
+title: "Profile"
 excerpt: "About me"
 author_profile: true
 redirect_from: 
   - /about/
   - /about.html
 ---
-I am a PhD student at the University of Tokyo, Japan. 
+Welcome to Kaho Morii's website! I am a PhD student studying astronomy at the University of Tokyo, Japan. 
 <br>
-My research interest is how stars form, especially about high-mass stars. 
+My research interest is star formation, especially about high-mass stars. 
 Using the radio interferometer such as ALMA, I'm studying the initial phase of high-mass star formation in infrared dark clouds (IRDCs). 
 
 ## Affiliation: 
