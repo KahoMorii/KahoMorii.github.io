@@ -32,9 +32,9 @@ Appointments
 * October 2020-
 Research Assistant in 5-year integrated Masters–Doctoral degree program, the Forefront Physics and Mathematics Program to Drive Transformation (FoPM) 
 
-<!-- * April 2022-March 2025
+* April 2022-
 JSPS Research Fellow (DC1), Department of Astronomy, Graduate School of Science, The University of Tokyo
- -->
+
  
 <!-- Skills
 ======
