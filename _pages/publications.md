@@ -15,6 +15,14 @@ redirect_from:
 {% include base_path %} -->
 
 ## Lead-Author Papers 
+**(3)** ["The Atacama Large Millimeter/submillimeter Array (ALMA) Survey of 70 μm Dark High-mass Clumps in Early Stages (ASHES). IX. Physical Properties and Spatial Distribution of Cores in IRDCs"]([https://ui.adsabs.harvard.edu/abs/2021ApJ...923..147M/abstract](https://ui.adsabs.harvard.edu/abs/2023arXiv230401757M/abstract))
+<br>
+**Morii, K.**, Sanhueza, P., Nakamura, F., Zhang, Q., Sabatini, G., Beuther, H., Lu, X., Li, S., Garay, G., 
+Jackson, J, M., Olguin, F, A., Tafoya, D., Tatematsu, K., Izumi, N.,  Sakai, T., and Silva, A.
+<br>
+2023, arXiv:2304.01757
+<br />
+
 **(2)** ["The ALMA Survey of 70 µm Dark High-mass Clumps in Early Stages (ASHES). IV. Star formation signatures in G023.477"](https://ui.adsabs.harvard.edu/abs/2021ApJ...923..147M/abstract)
 <br>
 **Morii, K.**, Sanhueza, P., Nakamura, F., Jackson, J, M., Li, S., Beuther, H., Zhang, Q., Feng, S., Tafoya, D., Guzmán, A, E., Izumi, N., Sakai, T., Lu, X., 
@@ -31,6 +39,15 @@ Tatematsu, K., Ohashi, S., Silva, A., Olguin, F, A., and Contreras, Y.
 <br />
 
 ## Co-Author Papers 
+**(7)** ["Evidence of high-mass star formation through multiscale mass accretion in hub-filament-system clouds "](https://ui.adsabs.harvard.edu/abs/2023MNRAS.522.3719L/abstract)
+<br>
+Liu, H-L., Tej, A., Liu, T., Sanhueza, P., Qin, S-L., He, J., Goldsmith, P. F., Garay, G., Pan, S., Morii, K., Li, S., Stutz, A., 
+Tatematsu, K., Xu, F-W., Bronfman, L., Saha, A., Issac, N., Baug, T., Toth, L. V., Dewangan, L., Wang, K., Zhou, J., Lee, C-W., 
+Yang, D., Luo, A., Shen, X., Zhang, Y., Wu, Y-F., Ren, Z., Liu, X-C., Soam, A., Zhang, S., and Luo, Q-Y
+<br>
+2023, Monthly Notices of the Royal Astronomical Society, 522, 3719
+<br />
+
 **(6)** ["The ALMA Survey of 70 μm Dark High-mass Clumps in Early Stages (ASHES). VII. Chemistry of Embedded Dense Cores"](https://ui.adsabs.harvard.edu/abs/2022ApJ...939..102L/abstract)
 <br>
 Li, Shanghuo, Sanhueza, P., Lu, X., Lee, Chang Won., Zhang, Q., Bovino, S., Sabatini, G., Liu, T., Kim, K., **Morii, K.**, Tafoya, D., Tatematsu, K., Sakai, T., Wang, J., Li, F., Silva, A., Izumi, N., and Allingham, D. 
