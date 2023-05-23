@@ -20,11 +20,11 @@ redirect_from:
  
 ## International Conferences and workshops: 
 **(5)** <br> ["Statistical study of cores embedded in 70 μm-dark high-mass prestellar clumps"](http://ppvii.org/chapter/posters.numbers.pdf](http://ppvii.org/chapter/posters.numbers.pdf)) <br> 
-        **Kaho Morii** (oral), Patricio Sanhueza, and Fumitaka Nakamura
+        **Kaho Morii** (poster), Patricio Sanhueza, and Fumitaka Nakamura <br>
         [Protostars and Planets VII](http://ppvii.org/) (April 10-15, 2023, at Kyoto, Japan)
         
 **(4)** <br> ["Defining the initial conditions of high-mass star formation with ALMA"](http://events.asiaa.sinica.edu.tw/workshop/20230214/abstract.php?i=36691b2e0270dba7e0f8e05da7a35875](http://events.asiaa.sinica.edu.tw/workshop/20230214/abstract.php?i=36691b2e0270dba7e0f8e05da7a35875)) <br> 
-        **Kaho Morii** (oral), Patricio Sanhueza, Fumitaka Nakamura, and Zhang Qizhou
+        **Kaho Morii** (oral), Patricio Sanhueza, Fumitaka Nakamura, and Zhang Qizhou <br>
         [East-Asian ALMA Science Workshop 2023](http://events.asiaa.sinica.edu.tw/workshop/20230214/) (February 14-17, 2023, at The Great Roots Resort, New Taipei City, Taiwan)
         
 **(3)** <br> ["Defining the initial condition of high-mass star formation by observations"](https://indico.ipmu.jp/event/420/contributions/7284/](https://indico.ipmu.jp/event/420/contributions/7284/)) <br> 
