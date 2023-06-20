@@ -14,7 +14,7 @@ We have mapped 39 interstellar clouds where high-mass stars (stars with masses e
 <img src="ASHESIX_press1.jpg" widht="40%">
 <p>Figure 1: An artist’s view on the internal structure of an infrared dark cloud revealed by  ALMA. The raw material for star formation consists of gas and dust. Here, the densest regions are represented in white and lower densities in blue-ish colors. Some protostars just formed eject gas in outflows, represented by the pink color.  Credit: ALMA (ESO/NAOJ/NRAO), K. Morii et al.</p>
 
-<img src="ASHESIX_press2.jpg">
+<img src="ASHESIX_press2.png">
 <p>Figure 2: Dust emission maps for 39 IRDCs where massive stars are expected to form in the future. Credit: ALMA (ESO/NAOJ/NRAO), K. Morii et al. </p> 
 
 These results appeared as Kaho Morii et al. “The ALMA Survey of 70μm Dark High-mass Clumps in Early Stages (ASHES). IX. Physical Properties and Spatial Distribution of Cores in IRDCs” in The Astrophysical Journal on June 20, 2023. (doi: 10.3847/1538-4357/acccea) <br>
