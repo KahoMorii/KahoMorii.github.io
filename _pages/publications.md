@@ -20,7 +20,7 @@ redirect_from:
 **Morii, K.**, Sanhueza, P., Nakamura, F., Zhang, Q., Sabatini, G., Beuther, H., Lu, X., Li, S., Garay, G., 
 Jackson, J, M., Olguin, F, A., Tafoya, D., Tatematsu, K., Izumi, N.,  Sakai, T., and Silva, A.
 <br>
-2023, arXiv:2304.01757
+2023, The Astrophysical Journal, 950, 148
 <br />
 
 **(2)** ["The ALMA Survey of 70 µm Dark High-mass Clumps in Early Stages (ASHES). IV. Star formation signatures in G023.477"](https://ui.adsabs.harvard.edu/abs/2021ApJ...923..147M/abstract)
@@ -39,7 +39,15 @@ Tatematsu, K., Ohashi, S., Silva, A., Olguin, F, A., and Contreras, Y.
 <br />
 
 ## Co-Author Papers 
-**(7)** ["Evidence of high-mass star formation through multiscale mass accretion in hub-filament-system clouds "](https://ui.adsabs.harvard.edu/abs/2023MNRAS.522.3719L/abstract)
+**(9)** ["The ALMA Survey of Star Formation and Evolution in Massive Protoclusters with Blue Profiles (ASSEMBLE): Core Growth, Cluster Contraction, and Primordial Mass Segregation 
+"](https://ui.adsabs.harvard.edu/abs/2023arXiv230914684X/abstract)
+<br>
+Xu, F., Wang, K., Liu, T., Tang, M., Evans, N. J., Palau, A., **Morii, K.**, He, J., Sanhueza, P., Liu, H-L., Stutz, A., Zhang, Q., Chen, X., Li, P., Gómez, G., Vázquez-Semadeni, E., Li, S., Mai, X., Lu, X., Liu, M., Chen, L., Li, C., Shi, H., Ren, Z., Li, D., Garay, G., Bronfman, L., Dewangan, L., Juvela, M., Lee, C., Zhang, S., ; Yue, N., Wang, C., Ge, Y., Jiao, W., Luo, Q., Zhou, J. -W., Tatematsu, K.,  Chibueze, J., Su, K., Sun, S., Ristorcelli, I., Toth, L. V.
+<br>
+arXiv:2309.14684
+<br />
+
+**(8)** ["Evidence of high-mass star formation through multiscale mass accretion in hub-filament-system clouds "](https://ui.adsabs.harvard.edu/abs/2023MNRAS.522.3719L/abstract)
 <br>
 Liu, H-L., Tej, A., Liu, T., Sanhueza, P., Qin, S-L., He, J., Goldsmith, P. F., Garay, G., Pan, S., Morii, K., Li, S., Stutz, A., 
 Tatematsu, K., Xu, F-W., Bronfman, L., Saha, A., Issac, N., Baug, T., Toth, L. V., Dewangan, L., Wang, K., Zhou, J., Lee, C-W., 
@@ -48,9 +56,16 @@ Yang, D., Luo, A., Shen, X., Zhang, Y., Wu, Y-F., Ren, Z., Liu, X-C., Soam, A., 
 2023, Monthly Notices of the Royal Astronomical Society, 522, 3719
 <br />
 
+**(7)** ["The ALMA Survey of 70 μm Dark High-mass Clumps in Early Stages (ASHES). VIII. Dynamics of Embedded Dense Cores"](https://ui.adsabs.harvard.edu/abs/2023ApJ...949..109L/abstract)
+<br>
+Li, S., Sanhueza, P., Zhang, Q., Guido, G., Sabatini, G., **Morii, K.**, Lu, X., Tafoya, D., Nakamura, F., Izumi, N., Tatematsu, K., Li, F.
+<br>
+2023, The Astrophysical Journal, 949, 109
+<br />
+
 **(6)** ["The ALMA Survey of 70 μm Dark High-mass Clumps in Early Stages (ASHES). VII. Chemistry of Embedded Dense Cores"](https://ui.adsabs.harvard.edu/abs/2022ApJ...939..102L/abstract)
 <br>
-Li, Shanghuo, Sanhueza, P., Lu, X., Lee, Chang Won., Zhang, Q., Bovino, S., Sabatini, G., Liu, T., Kim, K., **Morii, K.**, Tafoya, D., Tatematsu, K., Sakai, T., Wang, J., Li, F., Silva, A., Izumi, N., and Allingham, D. 
+Li, S., Sanhueza, P., Lu, X., Lee, Chang Won., Zhang, Q., Bovino, S., Sabatini, G., Liu, T., Kim, K., **Morii, K.**, Tafoya, D., Tatematsu, K., Sakai, T., Wang, J., Li, F., Silva, A., Izumi, N., and Allingham, D. 
 <br>
 2022, The Astrophysical Journal, 939, 102
 <br />
