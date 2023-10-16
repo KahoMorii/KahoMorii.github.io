@@ -49,7 +49,7 @@ arXiv:2309.14684
 
 **(8)** ["Evidence of high-mass star formation through multiscale mass accretion in hub-filament-system clouds "](https://ui.adsabs.harvard.edu/abs/2023MNRAS.522.3719L/abstract)
 <br>
-Liu, H-L., Tej, A., Liu, T., Sanhueza, P., Qin, S-L., He, J., Goldsmith, P. F., Garay, G., Pan, S., Morii, K., Li, S., Stutz, A., 
+Liu, H-L., Tej, A., Liu, T., Sanhueza, P., Qin, S-L., He, J., Goldsmith, P. F., Garay, G., Pan, S., **Morii, K.**, Li, S., Stutz, A., 
 Tatematsu, K., Xu, F-W., Bronfman, L., Saha, A., Issac, N., Baug, T., Toth, L. V., Dewangan, L., Wang, K., Zhou, J., Lee, C-W., 
 Yang, D., Luo, A., Shen, X., Zhang, Y., Wu, Y-F., Ren, Z., Liu, X-C., Soam, A., Zhang, S., and Luo, Q-Y
 <br>
