@@ -15,7 +15,7 @@ redirect_from:
 {% include base_path %} -->
 
 ## Lead-Author Papers 
-**(3)** ["The Atacama Large Millimeter/submillimeter Array (ALMA) Survey of 70 μm Dark High-mass Clumps in Early Stages (ASHES). IX. Physical Properties and Spatial Distribution of Cores in IRDCs"]([https://ui.adsabs.harvard.edu/abs/2021ApJ...923..147M/abstract](https://ui.adsabs.harvard.edu/abs/2023arXiv230401757M/abstract))
+**(3)** ["The ALMA Survey of 70 μm Dark High-mass Clumps in Early Stages (ASHES). IX. Physical Properties and Spatial Distribution of Cores in IRDCs"]((https://ui.adsabs.harvard.edu/abs/2023ApJ...950..148M/abstract))
 <br>
 **Morii, K.**, Sanhueza, P., Nakamura, F., Zhang, Q., Sabatini, G., Beuther, H., Lu, X., Li, S., Garay, G., 
 Jackson, J, M., Olguin, F, A., Tafoya, D., Tatematsu, K., Izumi, N.,  Sakai, T., and Silva, A.
