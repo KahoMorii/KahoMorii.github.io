@@ -19,9 +19,13 @@ redirect_from:
  -->
  
 ## International Conferences and workshops:         
-**(5)** <br> **"Insights into High-Mass Star Formation: Statistical Study of Cores in Infrared Dark Clouds"** <br> 
+**(6)** <br> **"Insights into High-Mass Star Formation: Statistical Study of Cores in Infrared Dark Clouds"** <br> 
         **Kaho Morii** (oral) <br>
         [ALMA at 10 years: Past, Present, and Future](https://www.almaobservatory.org/en/alma-at-10-years-past-present-and-future/) (December 4-8, 2023, at Hotel Cumbres, Puerto Varas., Chile)
+
+**(5)** <br> **"Statistical study of cores embedded in 70 μm-dark high-mass prestellar clumps"** <br> 
+        **Kaho Morii** (poster), Patricio Sanhueza, and Fumitaka Nakamura <br>
+        [Protostars and Planets VII](http://ppvii.org/) (April 10-15, 2023, at Kyoto, Japan)
         
 **(4)** <br> **"Defining the initial conditions of high-mass star formation with ALMA"** <br> 
         **Kaho Morii** (oral), Patricio Sanhueza, Fumitaka Nakamura, and Zhang Qizhou <br>
