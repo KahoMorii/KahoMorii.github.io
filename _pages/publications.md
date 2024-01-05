@@ -39,12 +39,19 @@ Tatematsu, K., Ohashi, S., Silva, A., Olguin, F, A., and Contreras, Y.
 <br />
 
 ## Co-Author Papers 
-**(9)** ["The ALMA Survey of Star Formation and Evolution in Massive Protoclusters with Blue Profiles (ASSEMBLE): Core Growth, Cluster Contraction, and Primordial Mass Segregation 
-"](https://ui.adsabs.harvard.edu/abs/2023arXiv230914684X/abstract)
+**(10)** ["The ALMA Survey of Star Formation and Evolution in Massive Protoclusters with Blue Profiles (ASSEMBLE): Core Growth, Cluster Contraction, and Primordial Mass Segregation 
+"](https://ui.adsabs.harvard.edu/abs/2024ApJS..270....9X/abstract)
 <br>
 Xu, F., Wang, K., Liu, T., Tang, M., Evans, N. J., Palau, A., **Morii, K.**, He, J., Sanhueza, P., Liu, H-L., Stutz, A., Zhang, Q., Chen, X., Li, P., Gómez, G., Vázquez-Semadeni, E., Li, S., Mai, X., Lu, X., Liu, M., Chen, L., Li, C., Shi, H., Ren, Z., Li, D., Garay, G., Bronfman, L., Dewangan, L., Juvela, M., Lee, C., Zhang, S., ; Yue, N., Wang, C., Ge, Y., Jiao, W., Luo, Q., Zhou, J. -W., Tatematsu, K.,  Chibueze, J., Su, K., Sun, S., Ristorcelli, I., Toth, L. V.
 <br>
-arXiv:2309.14684
+2024, The Astrophysical Journal Supplement Series, 720, 9
+<br />
+
+**(9)** ["Digging into the Interior of Hot Cores with ALMA: Spiral Accretion into the High-mass Protostellar Core G336.01-0.82"](https://ui.adsabs.harvard.edu/abs/2023ApJ...959L..31O/abstract)
+<br>
+Olguin, F. A., Sanhueza, P., Chen, V., Lu, X., Oya, Y, Zhang, Q., Ginsburg, A., Taniguchi, K., Li, S., **Morii, K.**, Sakai, T., Nakamura, F.
+<br>
+2023, The Astrophysical Journal Letters, 959, 31
 <br />
 
 **(8)** ["Evidence of high-mass star formation through multiscale mass accretion in hub-filament-system clouds "](https://ui.adsabs.harvard.edu/abs/2023MNRAS.522.3719L/abstract)
@@ -72,7 +79,7 @@ Li, S., Sanhueza, P., Lu, X., Lee, C-W., Zhang, Q., Bovino, S., Sabatini, G., Li
 
 **(5)** ["The Core Population and Kinematics of a Massive Clump at Early Stages: An Atacama Large Millimeter/submillimeter Array View"](https://iopscience.iop.org/article/10.3847/1538-4357/ac85b4)
 <br>
-Redaelli1, E., Bovino, S., Sanhueza, P., **Morii, K.**,  Sabatini, G., Caselli, P., Giannetti, A., Li, S. 
+Redaelli, E., Bovino, S., Sanhueza, P., **Morii, K.**,  Sabatini, G., Caselli, P., Giannetti, A., Li, S. 
 <br>
 2022, The Astrophysical Journal, 936, 169
 <br />
