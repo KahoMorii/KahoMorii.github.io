@@ -36,14 +36,12 @@ Research Assistant in 5-year integrated Masters–Doctoral degree program, the F
 JSPS Research Fellow (DC1), Department of Astronomy, Graduate School of Science, The University of Tokyo
 
  
-<!-- Skills
+Awards
 ======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3 -->
+* The 19th L'OR{\'{E}}AL-UNESCO For Women in Science Japan Fellowship Award (Sep. 2024)
+  <u><a href="https://www.s.u-tokyo.ac.jp/en/info/10488/">Press Release</a>.</u>
+
+* Excellence Award for Qualifying Examination and Final Examination (FoPM, WINGS Program)
 
 <!-- Publications
 ======
@@ -51,7 +49,7 @@ JSPS Research Fellow (DC1), Department of Astronomy, Graduate School of Science,
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
   
-Talks
+<!-- Talks
 ======
   <ul>{% for post in site.talks %}
     {% include archive-single-talk-cv.html %}
