@@ -5,7 +5,7 @@ permalink: /research/
 author_profile: true
 ---
     
-Our latest research findings have been released as a press release. <br>
+Our research findings have been released as a press release. <br>
 NAOJ: [https://www.nao.ac.jp/en/news/science/2023/20230620-alma.html](https://www.nao.ac.jp/en/news/science/2023/20230620-alma.html) <br>
 ALMA[https://www.nao.ac.jp/en/news/science/2023/20230620-alma.html](https://www.nao.ac.jp/en/news/science/2023/20230620-alma.html) <br>
 
