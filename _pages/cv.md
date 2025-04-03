@@ -14,6 +14,7 @@ Education
 * Ph.D in Department of Astronomy, School of Science, the University of Tokyo, March 2025
 * M.S. in Department of Astronomy, School of Science, the University of Tokyo, March 2022
 * B.S. in Department of Earth and Planetary Sciences, School of Science, Kyushu University, March 2020
+
 <!-- Work experience
 ======
 * Summer 2015: Research Assistant
