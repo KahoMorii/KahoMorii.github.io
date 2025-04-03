@@ -8,27 +8,17 @@ redirect_from:
   - /about.html
 ---
 Welcome to Kaho Morii's website! <br>
-I am a PhD student studying astronomy at the University of Tokyo, Japan. 
+I am a CfA fellow at the Center for Astrophysics | Harvard & Smithonian. 
 <br>
-My research interest is star formation, especially about high-mass stars. 
-Using the radio interferometer such as ALMA, I'm studying the initial phase of high-mass star formation in infrared dark clouds (IRDCs). 
+My research interest is star formation, especially high-mass stars. 
+Using the radio interferometers such as ALMA, SMA, and VLA, I'm studying the initial phase of high-mass star formation in infrared dark clouds (IRDCs). 
 
 ## Affiliation: 
-
-Department of Astronomy, School of Science, the University of Tokyo 
-<br>
-/ Division of Science of the National Astronomical Observatory of Japan (NAOJ)
+Center for Astrophysics | Harvard & Smithonian, Radio and Geoastronomy Division
 
 
 ## Research Field: 
 Star formation, High-mass star formaion, IRDCs, Outflows, Radio Astronomy
 
-## Supervisors:
-Prof. Fumitaka Nakamura, Prof. Patricio Sanhueza
-
 ## Contact Information:
-National Astronomical Observatory of Japan
-<br>
-2-21-1 Osawa, Central building (north), Office 218, Mitaka, Tokyo 181-8588, Japan
-<br>
-Email: kaho.morii@grad.nao.ac.jp
+Email: kaho.morii_at_cfa.harvard.edu
