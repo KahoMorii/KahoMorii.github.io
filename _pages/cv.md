@@ -11,9 +11,9 @@ redirect_from:
 
 Education
 ======
-* B.S. in Department of Earth and Planetary Sciences, School of Science, Kyushu University, 2020
-* M.S. in Department of Astronomy, School of Science, the University of Tokyo, 2022
-
+* Ph.D in Department of Astronomy, School of Science, the University of Tokyo, March 2025
+* M.S. in Department of Astronomy, School of Science, the University of Tokyo, March 2022
+* B.S. in Department of Earth and Planetary Sciences, School of Science, Kyushu University, March 2020
 <!-- Work experience
 ======
 * Summer 2015: Research Assistant
@@ -29,12 +29,14 @@ Education
    
 Appointments
 ======
-* October 2020-
-Research Assistant in 5-year integrated Masters–Doctoral degree program, the Forefront Physics and Mathematics Program to Drive Transformation (FoPM) 
+* April 2025
+CfA Postdoc Fellow, Center for Astrophysics \| Harvard & Smithonian
 
-* April 2022-
+* April 2022 - March 2025
 JSPS Research Fellow (DC1), Department of Astronomy, Graduate School of Science, The University of Tokyo
 
+* October 2020 - March 2025
+Research Assistant in 5-year integrated Masters–Doctoral degree program, the Forefront Physics and Mathematics Program to Drive Transformation (FoPM) 
  
 Awards
 ======
