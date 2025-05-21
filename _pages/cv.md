@@ -31,13 +31,13 @@ Education
 Appointments
 ======
 * April 2025
-CfA Postdoc Fellow, Center for Astrophysics \| Harvard & Smithonian
+CfA Postdoc Fellow, Center for Astrophysics \| Harvard & Smithsonian
 
 * April 2022 - March 2025
 JSPS Research Fellow (DC1), Department of Astronomy, Graduate School of Science, The University of Tokyo
 
 * October 2020 - March 2025
-Research Assistant in 5-year integrated Masters–Doctoral degree program, the Forefront Physics and Mathematics Program to Drive Transformation (FoPM) 
+Research Assistant in a 5-year integrated Master's–Doctoral degree program, the Forefront Physics and Mathematics Program to Drive Transformation (FoPM) 
  
 Awards
 ======
