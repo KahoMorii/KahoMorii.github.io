@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 Welcome to Kaho Morii's website! <br>
-I am a postdoc at the Center for Astrophysics | Harvard & Smithsonian. 
+I am a postdoc researcher at the Center for Astrophysics | Harvard & Smithsonian. 
 <br>
 My research interest is star formation, especially high-mass stars. 
 Using the radio interferometers such as ALMA, SMA, and VLA, I'm studying the initial phase of high-mass star formation in infrared dark clouds (IRDCs). 
