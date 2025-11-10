@@ -7,12 +7,19 @@ redirect_from:
   - /publications
 ---
 
-You can also find my articles on <u><a href="https://scholar.google.co.jp/citations?user=CDH2vdYAAAAJ&hl=ja&authuser=4">my Google Scholar profile</a>.</u>
+The full list of publications is available on <u><a href="https://scholar.google.co.jp/citations?user=CDH2vdYAAAAJ&hl=ja&authuser=4">my Google Scholar profile</a>.</u> or <u><a href="https://ui.adsabs.harvard.edu/public-libraries/5WiTkuAETvixem2VlGJVTw">ADS Library</a>.</u>.
 
 <!-- 
 {% include base_path %} -->
 
-## Lead-Author Papers 
+## First author refereed publications
+**(6)** "The Atacama Large Millimeter/submillimeter Array (ALMA) Survey of 70 μm Dark High-mass Clumps in Early Stages (ASHES). XIII. Core Mass Function Lifetime, and Growth of Prestellar Cores" 
+<br>
+**Morii, K.**, Sanhueza, P., Zhang, Q., Sabatini, G., Li, S., Louvet, F., Beuther, H., Olguin, F., Lin, S., Tafoya, D., Sakai, T., Lu, X., Nakamura, F.
+<br>
+2025, The Astrophysical Journal, under review
+<br />
+    
 **(5)** ["Global and Local Infall in the ASHES Sample (GLASHES). I. Pilot Study in G337.541 "](https://ui.adsabs.harvard.edu/abs/2025ApJ...979..233M/abstract)
 <br>
 **Morii, K.**, Sanhueza, P., Csengeri, T., Nakamura, F., Sylvain, B., Guido, G., Qizhou, Z.
@@ -22,7 +29,7 @@ You can also find my articles on <u><a href="https://scholar.google.co.jp/citati
 
 **(4)** ["The Atacama Large Millimeter/submillimeter Array (ALMA) Survey of 70 μm Dark High-mass Clumps in Early Stages (ASHES). XI. Statistical Study of Early Fragmentation"](https://ui.adsabs.harvard.edu/abs/2024ApJ...966..171M/abstract)
 <br>
-**Morii, K.**, Sanhueza, P., Zhang, Q., Nakamura, F.,  Li, S., Sabatini, G., Olguin, F, Beuther, H., A., Tafoya, Izumi, N., D., Tatematsu, K., and Sakai, T.
+**Morii, K.**, Sanhueza, P., Zhang, Q., Nakamura, F.,  Li, S., Sabatini, G., Olguin, F., Beuther, H., Tafoya, D., Izumi, N., Tatematsu, K., and Sakai, T.
 <br>
 2024, The Astrophysical Journal, 966, 171
 <br />
