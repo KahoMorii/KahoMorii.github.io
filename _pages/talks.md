@@ -19,7 +19,7 @@ redirect_from:
  -->
  
 ## International Conferences and Workshops:   
-**(10)** <br> **"(invited) Probing the Origin of Dense Cores in High-Mass Star-Forming Regions through Early-Stage Fragmentation"** <br> 
+**(10)** invited <br> **"Probing the Origin of Dense Cores in High-Mass Star-Forming Regions through Early-Stage Fragmentation"** <br> 
         **Kaho Morii** (oral) <br>
         [Stellar Origins 2025](https://stellarorigins2025.univie.ac.at/) (September 15-19, 2025, at University of Vienna, Austria)
         
@@ -64,26 +64,12 @@ redirect_from:
         [Protostars and Planets VII](http://ppvii.org/) (April 10-15, 2023, at Kyoto International Conference Center, Kyoto, Japan)
 
 ## Invited Seminar Talks:   
-**"DAO Astronomy Colloquium"** (Herzberg Institute of Astrophysics) <br>
-*October, 2025* <br><br>
 
-**"Galaxy Evolution Community Knowledge-sharing Opportunity (GECKO) Seminar"** <br>
-*October, 2025* <br><br>
-
-**"Early Phase and Initial Conditions of Galactic Massive Star Formation"** (KIAA-PKU) <br>
-*July, 2024* <br><br>
-
-**"PSF coffee"** (Max Planck Institute for Astronomy) <br>
-*March, 2024* <br><br>
-
-**"MPE-CAS journal club"** (Max-Planck-Institut für extraterrestrische Physik) <br>
-*March, 2024* <br><br>
-
-**"Weekly group meeting"** (Universitat de Barcelona) <br>
-*February, 2024* <br><br>
-
-**"Weekly seminar at Laboratoire d'Astrophysique de Bordeaux"** (Université de Bordeaux) <br>
-*January, 2024* <br><br>
-
-**"SMA seminar"** (Harvard-Smithsonian Center for Astrophysics) <br>
-*January, 2023*
+**"DAO Astronomy Colloquium"** at Herzberg Institute of Astrophysics (October, 2025) <br>
+**"Galaxy Evolution Community Knowledge-sharing Opportunity (GECKO) Seminar"** (online, October, 2025) <br>
+**"Early Phase and Initial Conditions of Galactic Massive Star Formation"** at KIAA-PKU (online, July, 2024) <br>
+**"PSF coffee"** at Max Planck Institute for Astronomy (March, 2024) <br>
+**"MPE-CAS journal club"** at Max-Planck-Institut für extraterrestrische Physik (March, 2024) <br>
+**"Weekly group meeting"** at Universitat de Barcelona (February, 2024) <br>
+**"Weekly seminar at Laboratoire d'Astrophysique de Bordeaux"** at Université de Bordeaux (January, 2024) <br>
+**"SMA seminar"** at Harvard-Smithsonian Center for Astrophysics (January, 2023)
