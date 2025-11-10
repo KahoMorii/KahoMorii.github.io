@@ -43,8 +43,6 @@ Awards
 ======
 * Research Encouragement Award, School of Science, The University of Tokyo (Mar. 2025)
 
-* Excellence Award for Final Examination (FoPM, WINGS Program) (Sep. 2024)
-
 * The 19th L'ORÉAL-UNESCO For Women in Science Japan Fellowship Award (Sep. 2024)
   <u><a href="https://www.s.u-tokyo.ac.jp/en/info/10488/">Press Release</a>.</u>
 
