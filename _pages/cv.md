@@ -7,7 +7,7 @@ redirect_from:
   - /resume
 ---
 
-{% include base_path %}
+<u><a href="https://drive.google.com/file/d/1xLm52MQa6tMzx84Te7S8kjc56vagHLYu/view?usp=sharing">Full version of CV</a></u> (last updated Nov. 2025)
 
 Education
 ======
