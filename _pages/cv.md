@@ -30,7 +30,7 @@ Education
    
 Appointments
 ======
-* April 2025
+* April 2025 - 
 CfA Postdoc Fellow, Center for Astrophysics \| Harvard & Smithsonian
 
 * April 2022 - March 2025
