@@ -4,8 +4,18 @@ title: "Research"
 permalink: /research/
 author_profile: true
 ---
-    
-Our research findings have been released as a press release. <br>
+
+My research focuses on the properties of molecular cloud cores located within potential birthplaces of high-mass stars, specifically 70 μm dark clouds. 
+
+My research topics include characterizing the evolutionary stages of cores using outflows and warm gas tracers, as well as studying their physical properties (e.g., mass and density), spatial distribution, fragmentation, and core mass function. 
+
+This work is part of the ALMA Survey of 70 μm Dark High-mass Clumps in Early Stages (ASHES) project. 
+
+I also recently led the Global and Local Infall in the ASHES Sample (GLASHES) project, which investigates gas dynamics around cores. 
+
+The following is from the press release about one of the ASHES results. 
+
+Press release<br>
 NAOJ: [https://www.nao.ac.jp/en/news/science/2023/20230620-alma.html](https://www.nao.ac.jp/en/news/science/2023/20230620-alma.html) <br>
 ALMA[https://www.nao.ac.jp/en/news/science/2023/20230620-alma.html](https://www.nao.ac.jp/en/news/science/2023/20230620-alma.html) <br>
 
@@ -17,7 +27,7 @@ We have mapped 39 interstellar clouds where high-mass stars (stars with masses e
 <img src='/images/ASHESIX_press2.png'>
 <p>Figure 2: Dust emission maps for 39 IRDCs where massive stars are expected to form in the future. Credit: ALMA (ESO/NAOJ/NRAO), K. Morii et al. </p> 
 
-These results appeared as Kaho Morii et al. “The ALMA Survey of 70μm Dark High-mass Clumps in Early Stages (ASHES). IX. Physical Properties and Spatial Distribution of Cores in IRDCs” in The Astrophysical Journal on June 20, 2023. (doi: 10.3847/1538-4357/acccea) <br>
+These results appeared as Kaho Morii et al. “The ALMA Survey of 70 μm Dark High-mass Clumps in Early Stages (ASHES). IX. Physical Properties and Spatial Distribution of Cores in IRDCs” in The Astrophysical Journal on June 20, 2023. (doi: 10.3847/1538-4357/acccea) <br>
      
 <h3>Other Articles</h3>
 * ASHES to ASHES, Dust to… Star Formation? [AAS NOVA](https://aasnova.org/2021/11/16/ashes-to-ashes-dust-to-star-formation) / [astrobites](https://astrobites.org/2021/10/20/ashes-to-ashes-dust-to-starformation/) <br>
