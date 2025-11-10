@@ -18,7 +18,15 @@ redirect_from:
 {% endfor %}
  -->
  
-## International Conferences and workshops:   
+## International Conferences and Workshops:   
+**(10)** <br> **"(invited) Probing the Origin of Dense Cores in High-Mass Star-Forming Regions through Early-Stage Fragmentation"** <br> 
+        **Kaho Morii** (oral) <br>
+        [Stellar Origins 2025](https://stellarorigins2025.univie.ac.at/) (September 15-19, 2025, at University of Vienna, Austria)
+        
+**(9)** <br> **"Seeds of Massive Stars Revealed by Radio Observations "** <br> 
+        **Kaho Morii** (oral) <br>
+        [FoPM International Symposium 2025](https://indico.ipmu.jp/event/459/overview) (February 17-19, 2025, at Ito International Research Center, Tokyo, Japan)
+
 **(8)** <br> **"Signs of Dynamic Gas Inflow toward Intermediate-mass Cores Embedded in IRDC"** <br> 
         **Kaho Morii** (oral) <br>
         [East Asian ALMA Science Workshop 2024](https://alma.kasi.re.kr/EA_ALMA_2024/) (July 22-24, 2024, at Korea)
@@ -54,3 +62,28 @@ redirect_from:
 **(1)** <br> **"Statistical study of cores embedded in 70 μm-dark high-mass prestellar clumps"** <br> 
         **Kaho Morii** (poster), Patricio Sanhueza, and Fumitaka Nakamura <br>
         [Protostars and Planets VII](http://ppvii.org/) (April 10-15, 2023, at Kyoto International Conference Center, Kyoto, Japan)
+
+## Invited Seminar Talks:   
+**"DAO Astronomy Colloquium"** (Herzberg Institute of Astrophysics) <br>
+*October, 2025* <br><br>
+
+**"Galaxy Evolution Community Knowledge-sharing Opportunity (GECKO) Seminar"** <br>
+*October, 2025* <br><br>
+
+**"Early Phase and Initial Conditions of Galactic Massive Star Formation"** (KIAA-PKU) <br>
+*July, 2024* <br><br>
+
+**"PSF coffee"** (Max Planck Institute for Astronomy) <br>
+*March, 2024* <br><br>
+
+**"MPE-CAS journal club"** (Max-Planck-Institut für extraterrestrische Physik) <br>
+*March, 2024* <br><br>
+
+**"Weekly group meeting"** (Universitat de Barcelona) <br>
+*February, 2024* <br><br>
+
+**"Weekly seminar at Laboratoire d'Astrophysique de Bordeaux"** (Université de Bordeaux) <br>
+*January, 2024* <br><br>
+
+**"SMA seminar"** (Harvard-Smithsonian Center for Astrophysics) <br>
+*January, 2023*
