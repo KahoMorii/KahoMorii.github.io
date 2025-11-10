@@ -7,7 +7,7 @@ redirect_from:
   - /publications
 ---
 
-The full list of publications is available on <u><a href="https://scholar.google.co.jp/citations?user=CDH2vdYAAAAJ&hl=ja&authuser=4">my Google Scholar profile</a>.</u> or <u><a href="https://ui.adsabs.harvard.edu/public-libraries/5WiTkuAETvixem2VlGJVTw">ADS Library</a>.</u>.
+The full list of publications is available on <u><a href="https://scholar.google.co.jp/citations?user=CDH2vdYAAAAJ&hl=ja&authuser=4">my Google Scholar profile</a></u> or <u><a href="https://ui.adsabs.harvard.edu/public-libraries/5WiTkuAETvixem2VlGJVTw">ADS Library</a>.</u>
 
 <!-- 
 {% include base_path %} -->
