@@ -13,6 +13,13 @@ The full list of publications is available on <u><a href="https://scholar.google
 {% include base_path %} -->
 
 ## First author refereed publications
+**(7)** ["Global and Local Infall in the ASHES Sample (GLASHES). II. Asymmetric Line Profiles around Dense Cores in 70 μm Dark Massive Clumps" ](https://arxiv.org/abs/2605.12595)
+<br>
+**Morii, K.**, Sanhueza, P., Zhang, Q., James M. Jackson
+<br>
+2026, accepted for publication in the Astrophysical Journal (arxiv: 2605.12595)
+<br />
+
 **(6)** ["The Atacama Large Millimeter/submillimeter Array (ALMA) Survey of 70 μm Dark High-mass Clumps in Early Stages (ASHES). XIII. Core Mass Function Lifetime, and Growth of Prestellar Cores" ](https://ui.adsabs.harvard.edu/abs/2026ApJ...997..155M/abstract)
 <br>
 **Morii, K.**, Sanhueza, P., Zhang, Q., Sabatini, G., Li, S., Louvet, F., Beuther, H., Olguin, F., Lin, S., Tafoya, D., Sakai, T., Lu, X., Nakamura, F.
